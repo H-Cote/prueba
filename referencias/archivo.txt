@@ -1,2 +1,11 @@
  
 Esta es la versión 1
+<<<<<<< HEAD
+Y se encuentra en la rama master.
+=======
+
+Este documento pertenece a la primera rama. 
+>>>>>>> rama_1
+
+
+Este archivo viene de otra dimension
